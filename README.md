@@ -25,4 +25,7 @@ In Short, ATC understandable phrase from geo-coordinates
 App will use an internal database of position reference points
 App will not require internet access, only GPS position.
 
+ok to begin on ATCFinalApp2
+
+
 
